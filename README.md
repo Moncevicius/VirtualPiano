@@ -19,7 +19,6 @@ Project has 5 stages:
     4. "Let there be music" - Now, let's teach our musical instrument how to actually produce sound. 
     5. "Adding and styling new keys" - Finally, add the black keys to your piano and customize them. We're done! 
 
-
 LEARNING OUTCOMES
 
 You will learn how to write HTML documents and work with the most popular CSS properties. You will also learn how to use JavaScript
