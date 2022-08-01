@@ -26,6 +26,6 @@ to make event handlers for browser events and create and insert new elements int
 
 ADDITIONAL INFORMATION
 
-Every single stage information can be found inside 'Coffee Machine' folder. Upon going inside the folder and selecting specific stage, 'task.html' 
+Every single stage information can be found inside 'Virtual Piano' folder. Upon going inside the folder and selecting specific stage, 'task.html' 
 provides information what is required/needed to be done to complete the stage. 'Task' folder, 'src' folder contains the final stage implementation 
 including previous stages.
